@@ -7,7 +7,7 @@ Labs Assignment
 
 ## Assignment Overview
 
-This repository contains the Mobile Application Development assignment submitted by Nguyen Hoang Ly for the course ITITIU20249. The assignment focuses on developing a mobile application using technologies and concepts learned during the course.
+This repository contains the Mobile Application Development **assignments** and **images which proves my completion** submitted by Nguyen Hoang Ly. The assignment focuses on developing a mobile application using technologies and concepts learned during the course.
 
 ## Assignment Details
 
