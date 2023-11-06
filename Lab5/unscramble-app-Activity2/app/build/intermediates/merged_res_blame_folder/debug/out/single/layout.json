@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nguyenhaiharry/.gradle/daemon/7.6/com.example.android.unscramble.app-mergeDebugResources-39:/layout/game_fragment.xml",
+        "source": "/Users/nguyenhaiharry/.gradle/daemon/7.6/com.example.android.unscramble.app-main-42:/layout/game_fragment.xml"
+    },
+    {
+        "merged": "/Users/nguyenhaiharry/.gradle/daemon/7.6/com.example.android.unscramble.app-mergeDebugResources-39:/layout/main_activity.xml",
+        "source": "/Users/nguyenhaiharry/.gradle/daemon/7.6/com.example.android.unscramble.app-main-42:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.unscramble.app-mergeDebugResources-39:/layout/game_fragment.xml",
+        "source": "com.example.android.unscramble.app-main-42:/layout/game_fragment.xml"
+    }
+]
